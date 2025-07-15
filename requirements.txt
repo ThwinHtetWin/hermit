@@ -17,3 +17,4 @@ qrcode[pil]==6.0
 twine==1.13.0
 sphinx==1.8.5
 shamir-mnemonic==0.1
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
